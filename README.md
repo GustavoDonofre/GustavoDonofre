@@ -3,7 +3,7 @@
 ## 💻 Sobre mim
 Analista de Testes(QA) apaixonado por tecnologia, sempre me aprimorando em diversas áreas.👋
 
-- 🔭 Atualmente trabalhando com Cypress, Css, Javascript e Html
+- 🔭 Atualmente trabalhando com Cypress, Css, Javascript, JAVA, tortoise e Html
 - 🌱 Estudando mais sobre Cypress, Postman, testes de API REST e testes de regressão
 ## 📈 GitHub Stats
 
