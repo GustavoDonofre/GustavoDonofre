@@ -7,9 +7,8 @@ Analista de Testes(QA) apaixonado por tecnologia, sempre me aprimorando em diver
 - 🌱 Estudando mais sobre Cypress, Postman, testes de API REST e testes de regressão
 ## 📈 GitHub Stats
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavodonofre&show_icons=true&theme=tokyonight)
+![GustavoDonofre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoDonofre&theme=vue-dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodonofre&layout=compact&theme=tokyonight)
 
 ## 🧪 Tecnologias e Interesses
 
